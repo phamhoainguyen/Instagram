@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MEMO</string>
+    <string name="facebook_app_id">1622730868029211</string>
+    <string name="register_user">Đăng Ký</string>
+    <string name="login_user">Đăng Nhập</string>
+    <string name="setup_user">Thiết Lập</string>
+    <string name="main">Nhật Ký</string>
+</resources>

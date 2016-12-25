@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "244472570318",
+    "firebase_url": "https://simple-blog-eca92.firebaseio.com",
+    "project_id": "simple-blog-eca92",
+    "storage_bucket": "simple-blog-eca92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244472570318:android:7503107b7f62b3d7",
+        "android_client_info": {
+          "package_name": "com.voquanghuy.simpleblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244472570318-cqsjt52bmaf2g58adc3kbpg8526kttjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkn8y1N5I7NlLKOf44wmt24Ou-ggW-y8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
